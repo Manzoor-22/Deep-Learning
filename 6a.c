@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <Winsock2.h>
+#include <sys/socket.h>
 #include <netinet/in.h>
 #include <stdlib.h>
 #include <strings.h>
